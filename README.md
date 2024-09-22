@@ -3,7 +3,7 @@
 </div>
 <div id="header" align="center">
   <h1>Hi there 👋, I'm Ihor</h1>
-  <h3>Front-end developer from Ukraine</h3>
+  <h3>Front-end developer from Ukraine 💻</h3>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ihor-kanter/" target="_blank" alt="linkedin">
@@ -16,6 +16,18 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=fff">
   </a>
 </div>
+
+---
+
+### 😎 A little about me:
+
+- 🔥 Front-end developer with a passion for beautiful interfaces and clean code.
+- 📚 Always learning something new — tech evolves fast, and I'm doing my best to keep up.
+- ☕ My ideal coding session starts with a cup of coffee and a good mood (and sometimes with a couple of bugs that shouldn't be there).
+- 🧠 Trying not to "die" in these _wonderful_ times, balancing work, life, and self-improvement.
+- 🚀 Dreaming of building an app that **doesn't break on the first day of release**. Well, at least I’ll try! 😅
+
+---
 
 <!--
 **KanterIV/KanterIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
