@@ -23,9 +23,9 @@
 
 - 🔥 Front-end developer with a love for crafting sleek UIs and obsessively clean code.
 - 📚 Constantly leveling up — tech moves fast, and I’m sprinting to keep pace.
-- ☕ My ideal coding session starts with a cup of coffee and a good mood (and sometimes with a couple of bugs that shouldn't be there).
-- 🧠 Doing my best not to **drop dead** in these _charming times_ balancing work, life, and self-improvement.
-- 🚀 Dreaming of building an app that **doesn't break on the first day of release**. Well, at least I’ll try! 😅
+  ☕ My ideal coding session starts with coffee and good vibes (plus a few bugs that shouldn’t be there 😅).
+- 🧠 Doing my best not to **_drop dead_** in these _charming times_, balancing work, life, and self-improvement.
+- 🚀 Dreaming of building an app that **_doesn't break on the first day of release_**. Well, at least I’ll try! 😅
 
 ---
 
