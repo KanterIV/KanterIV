@@ -19,15 +19,38 @@
 
 ---
 
-### 😎 A little about me:
+### 😎 A little about me :
 
 - 🔥 Front-end developer with a love for crafting sleek UIs and obsessively clean code.
 - 📚 Constantly leveling up — tech moves fast, and I’m sprinting to keep pace.
-- ☕ My ideal coding session starts with coffee and good vibes (plus a few bugs that shouldn’t be there 😅).
+- ☕ My ideal coding session starts with coffee and good vibes (plus a few bugs that shouldn’t be there).😅
 - 🧠 Doing my best not to **_drop dead_** in these _charming times_, balancing work, life, and self-improvement.
 - 🚀 Dreaming of building an app that **_doesn't break on the first day of release_**. Well, at least I’ll try! 😅
 
 ---
+
+### 🛠️ Tech Stack & Tools :
+
+<img src="./assets/javascript.svg" width="40" height="40" alt="javascript" title="javascript">&nbsp;
+<img src="./assets/react.svg" width="40" height="40" alt="react" title="react">&nbsp;
+<img src="./assets/redux.svg" width="40" height="40" alt="redux" title="redux">&nbsp;
+<img src="./assets/html5.svg" width="40" height="40" alt="html" title="html">&nbsp;
+<img src="./assets/css3.svg" width="40" height="40" alt="css" title="css">&nbsp;
+<img src="./assets/sass.svg" width="40" height="40" alt="sass" title="sass">&nbsp;
+<img src="./assets/styled.png" width="40" height="40" alt="styled-components" title="styled-components">&nbsp;
+<img src="./assets/typescript.svg" width="40" height="40" alt="typescript" title="typescript">&nbsp;
+<img src="./assets/nodejs.svg" width="40" height="40" alt="nodejs" title="nodejs">&nbsp;
+<img src="./assets/mongodb.svg" width="40" height="40" alt="mongodb" title="mongodb">&nbsp;
+<img src="./assets/postman.svg" width="40" height="40" alt="postman" title="postman">&nbsp;
+<img src="./assets/firebase.svg" width="40" height="40" alt="firebase" title="firebase">&nbsp;
+<img src="./assets/github.svg" width="40" height="40" alt="github" title="github">&nbsp;
+<img src="./assets/git.svg" width="40" height="40" alt="git" title="git">&nbsp;
+<img src="./assets/bash.svg" width="40" height="40" alt="bash" title="bash">&nbsp;
+<img src="./assets/npm.svg" width="40" height="40" alt="npm" title="npm">&nbsp;
+<img src="./assets/vite.svg" width="40" height="40" alt="vite" title="vite">&nbsp;
+<img src="./assets/webpack.svg" width="40" height="40" alt="webpack" title="webpack">&nbsp;
+<img src="./assets/parcel.png" width="40" height="40" alt="parcel" title="parcel">&nbsp;
+<img src="./assets/figma.svg" width="40" height="40" alt="figma" title="figma">&nbsp;
 
 <!--
 **KanterIV/KanterIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,4 +65,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
