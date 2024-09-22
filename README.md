@@ -21,10 +21,10 @@
 
 ### 😎 A little about me:
 
-- 🔥 Front-end developer with a passion for beautiful interfaces and clean code.
-- 📚 Always learning something new — tech evolves fast, and I'm doing my best to keep up.
+- 🔥 Front-end developer with a love for crafting sleek UIs and obsessively clean code.
+- 📚 Constantly leveling up — tech moves fast, and I’m sprinting to keep pace.
 - ☕ My ideal coding session starts with a cup of coffee and a good mood (and sometimes with a couple of bugs that shouldn't be there).
-- 🧠 Trying not to "die" in these _wonderful_ times, balancing work, life, and self-improvement.
+- 🧠 Doing my best not to **drop dead** in these _charming times_ balancing work, life, and self-improvement.
 - 🚀 Dreaming of building an app that **doesn't break on the first day of release**. Well, at least I’ll try! 😅
 
 ---
